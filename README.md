@@ -1,8 +1,33 @@
-This project is about relearning how to interpret the outputs of the Monte Carlo model, which is based off a brownian diffusion process. 
-I was most interested in generating a correlation matrix showing how bitcoin, ethereum, and XRP were correlated with the rest of the market, including the US Dollar. 
+# Monte Carlo XRP Simulation
 
-There are 3 models: the basic one with just XRP, the multi-asset-model, and the regime change model. 
+A Python project that explores potential future XRP price paths using
+Monte Carlo simulation techniques.
 
-The correlation matrix comes from the output of the second. I never finished the regime change model. 
+## Purpose
 
-Plan is to go back to the first 2 models to study the models, create graphics of how the model works, and to also add in other variables that professional quants and data scientists consider.
+This project was created to strengthen my understanding of:
+
+- Probability
+- Random processes
+- Financial modeling
+- Data visualization
+
+## Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- yfinance
+
+## Key Concepts
+
+- Geometric Brownian Motion
+- Monte Carlo Methods
+- Time Series Analysis
+
+## Future Improvements
+
+- Regime Switching Models
+- GARCH Volatility
+- Historical Backtesting
