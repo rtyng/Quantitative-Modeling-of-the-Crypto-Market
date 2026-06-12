@@ -1,0 +1,5 @@
+XLM-USD  — payments/remittance-adjacent comparison
+ADA-USD  — large-cap altcoin benchmark
+DOGE-USD — speculative retail beta proxy
+LINK-USD — infrastructure/oracle benchmark
+LTC-USD  — older-cycle large-cap benchmark

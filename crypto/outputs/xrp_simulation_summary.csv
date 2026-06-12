@@ -1,0 +1,2 @@
+current_price,mean_final_price,median_final_price,5th_percentile,25th_percentile,75th_percentile,95th_percentile,probability_gain,probability_50pct_drawdown,probability_100pct_gain
+1.117900013923645,1.6571644572231872,1.1776210470048818,0.3012946291346198,0.6739407692894214,2.089013999546057,4.589481322207262,0.5267,0.1819,0.2215

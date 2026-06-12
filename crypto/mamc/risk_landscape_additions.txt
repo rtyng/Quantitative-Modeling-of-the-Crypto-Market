@@ -1,0 +1,24 @@
+BTC-USD  — broad crypto beta / risk-on anchor
+ETH-USD  — smart-contract / institutional crypto anchor
+SOL-USD  — high-beta L1 risk appetite
+BNB-USD  — exchange-linked large-cap crypto
+USDT-USD or USDC-USD — stablecoin liquidity proxy, less for price, more for flows/liquidity
+TOTAL crypto market cap — broad market regime, if sourced elsewhere
+
+
+Senate outcome modeling
+
+Scenario A: Bill passes / strong progress
+Probability: e.g. 35%
+XRP shock: +20% to +80%
+Volatility after event: lower or higher depending on interpretation
+
+Scenario B: Bill delayed
+Probability: e.g. 45%
+XRP shock: -10% to +10%
+Volatility remains high
+
+Scenario C: Bill fails / hostile language
+Probability: e.g. 20%
+XRP shock: -20% to -60%
+Volatility spikes
